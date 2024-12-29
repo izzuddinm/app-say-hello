@@ -1,2 +1,6 @@
 github.com/izzuddinm/go-say-hello v1.0.0 h1:aeJBEfhcXsj1+6G+fDvTtRKHVaSIhZWL5p+kjJrKiGc=
 github.com/izzuddinm/go-say-hello v1.0.0/go.mod h1:gqfXwVzOrE2v25nqzKC6CWNg5zzQXL6D4freh2ATHnM=
+github.com/izzuddinm/go-say-hello v1.1.0 h1:f2BncXHPJY/ocdleoY5FEi7qo/eqO7CNBNA0RmD9CG0=
+github.com/izzuddinm/go-say-hello v1.1.0/go.mod h1:gqfXwVzOrE2v25nqzKC6CWNg5zzQXL6D4freh2ATHnM=
+github.com/izzuddinm/go-say-hello/v2 v2.0.0 h1:mTi7NTIotgY2Xs661f/HR+uxmg1VP4AnnFDfGIdLuEM=
+github.com/izzuddinm/go-say-hello/v2 v2.0.0/go.mod h1:rAlZhKIkYGJRYCtsuBXuypGr3chMQecRycfzlSkOo6w=
